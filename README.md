@@ -1,3 +1,7 @@
-# Cours Applications Pair-à-Pair, université Marne-la-Vallée
+# Propagation in Graphs
 
-Documents de cours.
+This repository contains Practicals and Course for Master ACN INF674 module.
+
+## 2016-2017 Edition
+
+The module was managed by Céline Comte and Fabien Mathieu
